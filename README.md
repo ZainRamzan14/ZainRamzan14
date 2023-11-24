@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 😊 &nbsp; Let's go to done something new.
-- 🥋 &nbsp; hobbies-> Football.
+- 🥋 &nbsp; hobbies-> Vollyball.
 - 💻 &nbsp; "while((Be_happy)){code(); };!"
 - 🕋 &nbsp; "And Allah found you in lost and guided [you] <-{surah rehman}"
 
