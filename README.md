@@ -50,7 +50,7 @@
 
 <p align='center'>
   
-  <a href="https://wa.me/message/OBSIPJAS5VMUJ1">
+  <a href="https://wa.me/message/OBSIPJAS5VM1">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdul-subhan-mian/">
