@@ -1,10 +1,12 @@
-### Hi there! 👋 Welcome to my GitHub Profile
-
 ![Profile Views](https://komarev.com/ghpvc/?username=IAbdulSubhan)
+
+<h1 align="center">Hi there! 👋 I'm Abdul Subhan </h1>
+
+
 <p align="center"><img src="animation.gif" width="300" alt="animation.gif"></p>
 
 
-<h1> 💁‍♂️ I'm Abdul Subhan </h1>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
