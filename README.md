@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
-- 🎓 &nbsp; Studying Computer Science at FAST National University.
+- 🎓 &nbsp; Studied Computer Science at FAST National University.
 - 😊 &nbsp; Passionate about coding and exploring new technologies.
 - 🥋 &nbsp; Hobbies: Playing Volleyball.
 - 💻 &nbsp; Code mantra: "while((Be_happy)){code(); };!"
