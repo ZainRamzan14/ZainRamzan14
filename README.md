@@ -38,15 +38,7 @@
 
 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3> ✌🏽 &nbsp; Projects! ✌ &nbsp </h3>
 
-- **Restaurant Management System**
-  ![OOP](https://img.shields.io/badge/-OOP%20-pink)
-
-- **Caesar Cipher**
-  ![Assembly Language](https://img.shields.io/badge/-Assembly%20Language%20-white)
-
-<h3> 🤝🏻 &nbsp;Contact Me:) </h3>
 
 <p align='center'>
   <a href="https://wa.link/a">
