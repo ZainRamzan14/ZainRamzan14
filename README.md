@@ -13,8 +13,15 @@
 </table></markdown-accessiblity-table>
 <hr>
 
-<table> <tr> 
-  <td><img src="https://github-readme-stats.vercel.app/api?username=ZainRamzan14&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="ZainRamzan14"/></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainRamzan14&theme=highcontrast&hide_border=false" alt="ZainRamzan14" /></td> </tr> </table>
+<table> 
+  <tr> 
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZainRamzan14&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="ZainRamzan14"/></td> 
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainRamzan14&theme=highcontrast&hide_border=false" alt="ZainRamzan14" />
+  </td> 
+</tr> 
+</table>
 
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" style="max-width: 100%;"></a></p>
 <p>
